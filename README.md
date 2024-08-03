@@ -1,3 +1,6 @@
+Deployed project: 
+https://mort5554.github.io/TodoApp-vue-firebase/
+
 # Vue-Firebase-TodoApp
 
 This template should help get you started developing with Vue 3 in Vite.
